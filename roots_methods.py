@@ -1,7 +1,7 @@
-# f(x) = x ** 2 + 2 * x + 2
-# f(x1) * f(x2) < 0
 #ruth avivi 208981555
 #eden dahan 318641222
+# f(x) = x ** 2 + 2 * x + 2
+# f(x1) * f(x2) < 0
 def f_tag(f, x):
     """
     x = c
